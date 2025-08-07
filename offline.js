@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1745886569,
+	"version": 1754539061,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,7 +31,6 @@
 		"images/sanssweat-sheet0.png",
 		"images/sanssweat-sheet1.png",
 		"images/sanstorso-sheet0.png",
-		"images/sanstorso-sheet1.png",
 		"images/speechbubble-sheet0.png",
 		"images/boneh.png",
 		"images/bonev.png",
@@ -55,6 +54,7 @@
 		"images/touchdpad-sheet0.png",
 		"images/playerheart-sheet0.png",
 		"images/playerheart-sheet1.png",
+		"images/playerheart-sheet2.png",
 		"images/menuitem-sheet0.png",
 		"images/heartshard-sheet0.png",
 		"images/heartshard-sheet1.png",
