@@ -4,6 +4,8 @@ Battle UI sprites https://www.deviantart.com/canonswap/art/Underswap-Grillby-Bat
 
 Papyrus sprite: https://www.deviantart.com/canonswap/art/Underswap-Papyrus-Battle-Concept-937384907
 
+Music used: https://soundcloud.com/canonswap/enosiniemi
+
 Bad Time Simulator by Jcw87
 
 Canonswap by AshTheVA
